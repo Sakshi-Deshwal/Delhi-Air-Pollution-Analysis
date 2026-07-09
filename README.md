@@ -57,15 +57,19 @@ The workflow spans the full analytics pipeline: data cleaning and preprocessing 
 ## 📷 Dashboard Preview
 
 **Dashboard — Page 1**
-![Dashboard Page 1](images/Dashboard_page1.png)
+
+![Dashboard Page 1](images/Dashboard_Page1.png)
 
 **Dashboard — Page 2**
+
 ![Dashboard Page 2](images/Dashboard_Page2.png)
 
 **Pollution Heatmap**
+
 ![Heatmap](images/Heatmap.png)
 
 **Monthly PM2.5 Trend**
+
 ![Monthly PM2.5](images/Monthly_PM2.5.png)
 
 ## 📁 Repository Structure
