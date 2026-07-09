@@ -52,8 +52,7 @@ The workflow spans the full analytics pipeline: data cleaning and preprocessing 
 - Interactive Power BI dashboards enabled comparison of pollution trends by city, month, and season using dynamic filters and KPI cards.
 - SQL analysis helped identify pollution hotspots, seasonal trends, and city-wise pollutant averages through 20+ business-focused analytical queries.
 - The analysis provides actionable insights that can support environmental monitoring, pollution control strategies, and policy planning.
-
-```
+---
 ## 📷 Dashboard Preview
 
 **Dashboard — Page 1**
@@ -71,6 +70,7 @@ The workflow spans the full analytics pipeline: data cleaning and preprocessing 
 **Monthly PM2.5 Trend**
 
 ![Monthly PM2.5](images/Monthly_PM2.5.png)
+
 
 ## 📁 Repository Structure
 
